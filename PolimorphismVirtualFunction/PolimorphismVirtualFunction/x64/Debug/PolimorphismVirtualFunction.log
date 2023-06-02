@@ -1,0 +1,3 @@
+﻿  PolimorphismVirtualFunction.cpp
+PolimorphismVirtualFunction.obj : error LNK2001: неразрешенный внешний символ "public: virtual double __cdecl Circle::getVolume(void)const " (?getVolume@Circle@@UEBANXZ).
+C:\Users\мариа\source\repos\PolimorphismVirtualFunction\x64\Debug\PolimorphismVirtualFunction.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
